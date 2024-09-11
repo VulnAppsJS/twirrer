@@ -24,7 +24,7 @@
     "react-linkify": "^1.0.0-alpha",
     "react-modal-image": "^2.5.0",
     "react-responsive-modal": "^6.0.0",
-    "react-router-dom": "^5.2.0",
+    "react-router-dom": "^6.0.0",
     "react-scripts": "4.0.1",
     "sass": "^1.32.2",
     "sass-loader": "^10.1.0",
